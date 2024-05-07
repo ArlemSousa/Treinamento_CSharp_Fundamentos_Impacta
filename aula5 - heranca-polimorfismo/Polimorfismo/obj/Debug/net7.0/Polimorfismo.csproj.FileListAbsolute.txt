@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\bin\Debug\net7.0\Polimorfismo.exe
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\bin\Debug\net7.0\Polimorfismo.deps.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\bin\Debug\net7.0\Polimorfismo.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\bin\Debug\net7.0\Polimorfismo.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\bin\Debug\net7.0\Polimorfismo.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\obj\Debug\net7.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\obj\Debug\net7.0\Polimorfismo.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\obj\Debug\net7.0\refint\Polimorfismo.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\obj\Debug\net7.0\Polimorfismo.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\obj\Debug\net7.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula5\Polimorfismo\obj\Debug\net7.0\ref\Polimorfismo.dll
