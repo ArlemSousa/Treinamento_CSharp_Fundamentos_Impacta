@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Fundamentos.CSharp.Cap07-08.Colecoes.Genererics/1.0.0": {
+        "runtime": {
+          "Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentos.CSharp.Cap07-08.Colecoes.Genererics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

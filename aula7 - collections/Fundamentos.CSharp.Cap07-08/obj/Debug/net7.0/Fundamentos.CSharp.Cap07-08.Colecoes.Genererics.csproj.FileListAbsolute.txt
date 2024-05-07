@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\bin\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.exe
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\bin\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.deps.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\bin\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\bin\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\bin\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\obj\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\obj\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\obj\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\obj\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\obj\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\obj\Debug\net7.0\refint\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\obj\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\obj\Debug\net7.0\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula7\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics\obj\Debug\net7.0\ref\Fundamentos.CSharp.Cap07-08.Colecoes.Genererics.dll
