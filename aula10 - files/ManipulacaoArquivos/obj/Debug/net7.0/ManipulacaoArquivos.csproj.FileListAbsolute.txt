@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\bin\Debug\net7.0\ManipulacaoArquivos.exe
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\bin\Debug\net7.0\ManipulacaoArquivos.deps.json
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\bin\Debug\net7.0\ManipulacaoArquivos.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\bin\Debug\net7.0\ManipulacaoArquivos.dll
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\bin\Debug\net7.0\ManipulacaoArquivos.pdb
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\obj\Debug\net7.0\ManipulacaoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\obj\Debug\net7.0\ManipulacaoArquivos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\obj\Debug\net7.0\ManipulacaoArquivos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\obj\Debug\net7.0\ManipulacaoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\obj\Debug\net7.0\ManipulacaoArquivos.dll
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\obj\Debug\net7.0\refint\ManipulacaoArquivos.dll
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\obj\Debug\net7.0\ManipulacaoArquivos.pdb
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\obj\Debug\net7.0\ManipulacaoArquivos.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Impacta C#\aula10\ManipulacaoArquivos\obj\Debug\net7.0\ref\ManipulacaoArquivos.dll
