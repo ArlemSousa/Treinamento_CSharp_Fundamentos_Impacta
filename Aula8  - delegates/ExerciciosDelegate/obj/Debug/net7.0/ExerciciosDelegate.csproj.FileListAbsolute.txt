@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\bin\Debug\net7.0\ExerciciosDelegate.exe
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\bin\Debug\net7.0\ExerciciosDelegate.deps.json
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\bin\Debug\net7.0\ExerciciosDelegate.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\bin\Debug\net7.0\ExerciciosDelegate.dll
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\bin\Debug\net7.0\ExerciciosDelegate.pdb
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\obj\Debug\net7.0\ExerciciosDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\obj\Debug\net7.0\ExerciciosDelegate.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\obj\Debug\net7.0\ExerciciosDelegate.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\obj\Debug\net7.0\ExerciciosDelegate.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\obj\Debug\net7.0\ExerciciosDelegate.dll
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\obj\Debug\net7.0\refint\ExerciciosDelegate.dll
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\obj\Debug\net7.0\ExerciciosDelegate.pdb
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\obj\Debug\net7.0\ExerciciosDelegate.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Impacta C#\Aula8\ExerciciosDelegate\obj\Debug\net7.0\ref\ExerciciosDelegate.dll
