@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.exe
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.deps.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\obj\Debug\net7.0\refint\Fundamentos.c#.Cap02.Repeticao.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Repeticao.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Repeticao\obj\Debug\net7.0\ref\Fundamentos.c#.Cap02.Repeticao.dll

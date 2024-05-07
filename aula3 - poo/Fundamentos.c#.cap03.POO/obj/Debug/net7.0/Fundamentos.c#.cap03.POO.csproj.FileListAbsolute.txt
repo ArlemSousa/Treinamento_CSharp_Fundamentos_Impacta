@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\bin\Debug\net7.0\Fundamentos.c#.cap03.POO.exe
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\bin\Debug\net7.0\Fundamentos.c#.cap03.POO.deps.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\bin\Debug\net7.0\Fundamentos.c#.cap03.POO.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\bin\Debug\net7.0\Fundamentos.c#.cap03.POO.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\bin\Debug\net7.0\Fundamentos.c#.cap03.POO.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\obj\Debug\net7.0\Fundamentos.c#.cap03.POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\obj\Debug\net7.0\Fundamentos.c#.cap03.POO.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\obj\Debug\net7.0\Fundamentos.c#.cap03.POO.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\obj\Debug\net7.0\Fundamentos.c#.cap03.POO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\obj\Debug\net7.0\Fundamentos.c#.cap03.POO.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\obj\Debug\net7.0\refint\Fundamentos.c#.cap03.POO.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\obj\Debug\net7.0\Fundamentos.c#.cap03.POO.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\obj\Debug\net7.0\Fundamentos.c#.cap03.POO.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.c#.cap03.POO\obj\Debug\net7.0\ref\Fundamentos.c#.cap03.POO.dll

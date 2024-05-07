@@ -1,0 +1,21 @@
+Tema delegates
+
+Desafio A
+1 - Inspirado no exercicio de pratica de mecanismo de herança, crie duas 
+classes: nomeie a primeira como Retangulo e a segundo como Circulo
+
+2 - em cada uma delas estabeleça o calculo da área. Para isso, 
+crie o método delegate necessário, as propriedades e os métodos adequados para
+executar os calculos - cada uma dessas funcionalidades em suas devidas classes
+
+3 - em seguida - dentro do arquivo Program.cs - crie as instancias necessarias e faça uso do delegate
+para que os métodos responsaveis pelos calculos sejam chamados à execução
+
+4- exiba os resultados em tela.
+
+Desafio B
+
+1 - usando de delegates, crie operações que resultarão em uma estrutura de 
+código que simula uma calculadora e suas operações.
+
+2 - exiba o resultado em tela.

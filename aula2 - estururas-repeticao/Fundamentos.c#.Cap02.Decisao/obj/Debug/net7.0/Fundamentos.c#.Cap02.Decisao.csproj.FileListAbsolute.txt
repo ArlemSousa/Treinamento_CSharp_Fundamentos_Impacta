@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.exe
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.deps.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\bin\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\obj\Debug\net7.0\refint\Fundamentos.c#.Cap02.Decisao.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\obj\Debug\net7.0\Fundamentos.c#.Cap02.Decisao.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula2\Fundamentos.c#.Cap02.Decisao\obj\Debug\net7.0\ref\Fundamentos.c#.Cap02.Decisao.dll

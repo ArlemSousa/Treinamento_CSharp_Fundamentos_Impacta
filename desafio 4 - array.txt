@@ -1,0 +1,24 @@
+/* Objetivo do desafio:
+Ler duas matrizes A e B quadradas de ordem 3 e realizar o produto destas matrizes.*/
+
+
+/* Definição de como é possivel criar um produto de duas matrizes:
+
+O produto de duas matrizes-  matrizA pela matrizB, apenas esta definido se o numero de colunas
+da matrizA for igual ao numero de linhas da matrizB. Cada elemento de mAmB(matriz resultante) é definido atraves da somatoria do produto dos elementos da i-esima linha da matrizA com os respectivos elementos da j-esima coluna da matrizB.*/
+
+          1 2 3                    8 1 3                  22
+matrizA = 5 6 9    x     matrizB = 1 5 6       matrizAB = 
+          8 7 4                    4 3 1
+
+operacao = (1x8 + 2x1 + 3x4) = 22
+
+
+
+
+/* Dicas:
+ - determinar a ordem da matriz quadrada
+ - criar blocos de entrada de dados com a função auxiliar ReadLine() para que o usuario insira
+os valores que comporão as matrizes
+ - bloco processamento: multiplicando as matrizes de entrada
+ - estipular blocos de saida para exibir as matrizes montadas a partir dos dados inseridos pelo usuario*/

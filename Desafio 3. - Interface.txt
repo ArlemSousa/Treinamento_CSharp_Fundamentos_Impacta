@@ -1,0 +1,42 @@
+Uma interface em C# é usada junto com uma classe 
+para definir um "contrato" que é um "acordo" sobre 
+o que a classe fornecerá a um aplicativo. 
+A interface declara quais operações uma classe 
+pode implementar/executar. Além disso, uma interface declara as 
+propriedades e métodos. Cabe à classe definir 
+exatamente o que o método fará.
+
+O desafio consiste em:
+
+A - criar uma interface que será composta com 
+as propriedades que descrevem um livro - indicadas no Desafio 1 
+exercicio struct - e um método padrão para ser 
+acessado, no devido momento, para exibir as 
+propiedades em tela
+
+B - criar uma sequencia de classes para assumir o
+papel de categorias literarias, exemplo: Ficção,
+Não-ficção, Romance, Conto, Biografia, Poesia, entre
+outros. Fique a vontade para definir o numero de 
+categorias que julgar necessario - pelo menos 5 categorias.
+
+C - para cada classe de categoria criada defina
+as propriedades que compõe as classes, de maneira
+particular (que pertencem a aquela classe).
+Não se esqueça de praticar o mecanismo de herança
+com a Interface
+
+D - crie uma estrutura de classe que seja necessária
+para a manipulação das propriedades da interface
+e das propriedades descritas - de forma particular -
+em cada classe. É importante que a classe criada neste
+passo faça referencia a interface estabelecida no 
+projeto
+
+E -  no arquivo principal do projeto, pratique
+a instancias das classes necessárias e exiba os dados
+dos livros em tela.
+
+*** neste projeto, é importante que seu código esteja
+devidamente comentado descrevendo/explicando
+as escolhas que você usou para implementação.

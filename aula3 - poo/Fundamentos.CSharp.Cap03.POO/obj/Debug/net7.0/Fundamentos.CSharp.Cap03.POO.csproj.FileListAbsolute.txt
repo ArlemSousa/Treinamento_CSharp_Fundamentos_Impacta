@@ -1,0 +1,28 @@
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.exe
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.deps.json
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.runtimeconfig.json
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.pdb
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.AssemblyInfoInputs.cache
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.AssemblyInfo.cs
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.csproj.CoreCompileInputs.cache
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\refint\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.pdb
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.genruntimeconfig.cache
+C:\Users\celio\Desktop\Fullstack-noturno-JAN-24\Intro-C#\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\ref\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.exe
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.deps.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\bin\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\refint\Fundamentos.CSharp.Cap03.POO.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\Fundamentos.CSharp.Cap03.POO.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula3\Fundamentos.CSharp.Cap03.POO\obj\Debug\net7.0\ref\Fundamentos.CSharp.Cap03.POO.dll

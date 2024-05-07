@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\bin\Debug\net7.0\Aula1.Sintaxes.exe
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\bin\Debug\net7.0\Aula1.Sintaxes.deps.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\bin\Debug\net7.0\Aula1.Sintaxes.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\bin\Debug\net7.0\Aula1.Sintaxes.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\bin\Debug\net7.0\Aula1.Sintaxes.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\obj\Debug\net7.0\Aula1.Sintaxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\obj\Debug\net7.0\Aula1.Sintaxes.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\obj\Debug\net7.0\Aula1.Sintaxes.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\obj\Debug\net7.0\Aula1.Sintaxes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\obj\Debug\net7.0\Aula1.Sintaxes.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\obj\Debug\net7.0\refint\Aula1.Sintaxes.dll
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\obj\Debug\net7.0\Aula1.Sintaxes.pdb
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\obj\Debug\net7.0\Aula1.Sintaxes.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Impacta c#\aula1\Aula1.Sintaxes\obj\Debug\net7.0\ref\Aula1.Sintaxes.dll

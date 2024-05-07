@@ -1,0 +1,91 @@
+As variáveis de membro são os atributos 
+de um objeto (da perspectiva do design) 
+e são mantidas privadas para implementar 
+o encapsulamento. Essas variáveis só podem 
+ser acessadas usando as funções de membro público.
+
+1 - Crie uma classe com os conceitos acima para definir 
+e obter o valor de diferentes membros privados de 
+classe. Esta classe deverá ser a representação de 
+métrica de um cubo onde serão descritas as medidas
+para se obter o volume deste cubo.
+
+Saida esperada: o volume do cubo é:.....
+**** formula para se obter o volume do cubo: "V=a3"
+
+Veja mais sobre "Volume do cubo" em: https://brasilescola.uol.com.br/matematica/volume-do-cubo.htm
+
+
+Os métodos sobrecarregados 
+compartilham o mesmo nome, 
+mas possuem uma assinatura exclusiva. 
+O número de parâmetros, tipos de parâmetros 
+ou ambos devem ser diferentes. 
+Uma função/método não pode ser sobrecarregada 
+apenas com base em um tipo de retorno diferente.
+
+2 - Crie uma classe que será composta com métodos 
+sobrecarregados que manipularão informações de
+primeiro nome, nome do meio, ultimo nome. Na 
+sequencia, exiba o resultado em tela.
+
+Saida esperada: Primeiro Nome, Nome do meio, Ultimo nome
+                 Celio           Soares       de Souza
+
+
+Podemos definir membros de classe como estáticos 
+usando a palavra-chave static. Quando declaramos 
+um membro de uma classe 
+como estático, isso significa que não importa 
+quantos objetos da classe sejam criados, 
+haverá apenas uma cópia do membro estático.
+
+A palavra-chave static indica que existe apenas 
+uma instância do membro para uma classe. 
+Variáveis estáticas são usadas para definir 
+constantes porque seus valores podem ser 
+recuperados invocando a classe sem criar 
+uma instância dela. 
+As variáveis estáticas 
+podem ser inicializadas fora da função de membro ou definição de classe. 
+Você também pode inicializar variáveis estáticas dentro da definição de classe.
+
+3 - crie uma classe e defina - como parte da classe - 
+uma propriedade estatica numérica. Na sequencia,
+dentro da mesma classe defina dois métodos: o
+primeiro será um método que incrementa a propriedade
+estatica e o segundo será um método que retorna
+o valor da propriedade estatica definida anteriormente.
+
+Em seguida, acesse a classe com a propriedade estatica e, fazendo uso dos dois
+*****objetos*****, acesse o método de incrementar algumas vezes.
+Depois, exiba o resultado da propriedade incrementada.
+
+Uma struct é um data type de 
+tipo de valor. Ela auxilia na definição de  
+uma única variável que possa conter dados 
+relacionados a um determinado "tema" que pode ser 
+composto por dados diferentes. 
+A palavra-chave struct é usada para defini-la.
+
+4 - As structs são usadas para representar 
+uma forma "enxuta" de registro. 
+Vamos partir da seguinte premissa:
+você quer manter 
+o controle de seus livros em uma 
+biblioteca caseira simples. 
+Para tanto, você deve rastrear os seguintes dados
+de cada livro:
+ - Título
+ - Autor
+ - Genero
+ - registro/identificação do livro
+Para definir uma estrutura, use a 
+instrução struct e nomeie-a como preferir. Agora, 
+componha a struct com os dados dos livros.
+
+Defina, pelo menos, duas especificações de dois
+livros distintos. Exiba as informações na tela.
+
+
+
